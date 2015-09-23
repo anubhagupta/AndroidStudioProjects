@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Love Calculater</string>
+
+    <string name="hello_world">Welcome to this great invention of Doctor Love!</string>
+    <string name="hello_world2">We all know that a name can tell a lot about a person. Names are not randomly chosen: they all have a meaning. Doctor Love knew this so he made another great invention just for the lonely you!</string>
+
+
+    <string name="title">Love CALCULATER</string>
+    <string name="action_settings">Settings</string>
+    <string name="name1">Name of First Person</string>
+    <string name="name2">Name of Second Person</string>
+    <string name="calculate">GO!</string>
+    <string name="spinner_title">Choose One</string>
+    <string name="title_activity_result">Result</string>
+
+</resources>
